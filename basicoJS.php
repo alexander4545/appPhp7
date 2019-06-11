@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="css/estilos.css"/>
     <link rel="stylesheet" href="css/menu.css"/>
     <link rel="stylesheet" href="css/problemas.css"/>
-    <link rel="stylesheet" href="php7/solucion.php"/>
+    <link rel="stylesheet" href="php7/solucion.js"/>
     <link href="https://fonts.googleapis.com/css?family=Rambla" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Comfortaa" rel="stylesheet">
     
